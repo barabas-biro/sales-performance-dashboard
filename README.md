@@ -52,10 +52,15 @@ The goal of the dashboard is to provide a clear overview of business performance
 - Regional and category-level filtering helps identify performance patterns.
 
 ## Screenshots
+
+## Sales Overview
 <img width="1417" height="791" alt="sales-overview" src="https://github.com/user-attachments/assets/b78b2f2d-0254-4fa3-861d-eb0765a93810" />
 
+## Interactive Analysis
 <img width="1420" height="790" alt="interactive-analysis" src="https://github.com/user-attachments/assets/9bbd3030-86e0-4ad4-9dda-74bffd3b06d6" />
 
+## Customer Insights
 <img width="1411" height="788" alt="customer-insights" src="https://github.com/user-attachments/assets/38e02ccc-750e-4851-8e27-075cdea711db" />
 
+## Profit Analysis
 <img width="1413" height="789" alt="profit-analysis" src="https://github.com/user-attachments/assets/baf24ec1-0b62-4a9c-84d3-de7f8042b2a1" />
